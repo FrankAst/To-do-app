@@ -11,10 +11,11 @@ Files are in branch "master".
 * Angular CLI 13.1.2
 * Linux x64
 
-To run the backend, the first thing to do is:
+To run the backend, the first thing to do is to create the database: 
+
   $ bash psqldatabase.sh
 
-Then inside the target folder, there is a file called: appens-0.0.1-SNAPSHOT.jar
+Then, inside the target folder, there is a file called: appens-0.0.1-SNAPSHOT.jar, which launches the backend
  
  $ java -jar appens-0.0.1-SNAPSHOT.jar
  
