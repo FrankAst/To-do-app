@@ -1,0 +1,6 @@
+com/ensolversapp/appens/model/Task.class
+com/ensolversapp/appens/taskConfig/taskConfig.class
+com/ensolversapp/appens/Service/TaskService.class
+com/ensolversapp/appens/AppensApplication.class
+com/ensolversapp/appens/Repository/TaskRepo.class
+com/ensolversapp/appens/taskController.class
