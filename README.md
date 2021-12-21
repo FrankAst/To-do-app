@@ -19,9 +19,10 @@ Then, inside the target folder, there is a file called: appens-0.0.1-SNAPSHOT.ja
  
  $ java -jar appens-0.0.1-SNAPSHOT.jar
  
-Regarding the front end, Its not finished and to "run" it its necessary to execute 
+Regarding the front end, Its not finished and to "run" it its necessary to execute:
  
  $ ng serve
+ 
 on the folder, and then once compiled, typing localhost:4200 in the browser.
 
 
