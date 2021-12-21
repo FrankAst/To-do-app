@@ -13,11 +13,14 @@ Files are in branch "master".
 
 To run the backend, the first thing to do is:
   $ bash psqldatabase.sh
+
 Then inside the target folder, there is a file called: appens-0.0.1-SNAPSHOT.jar
-  $ java -jar appens-0.0.1-SNAPSHOT.jar
+ 
+ $ java -jar appens-0.0.1-SNAPSHOT.jar
  
 Regarding the front end, Its not finished and to "run" it its necessary to execute 
-  $ ng serve
+ 
+ $ ng serve
 on the folder, and then once compiled, typing localhost:4200 in the browser.
 
 
